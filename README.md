@@ -1,0 +1,1 @@
+O código está zipado pois é muito grande, caso tenha interesse de vê-lo baixe o arquivo zipado e extraia tudo, depois abra o visualStudio e rode o código no terminal dando npm-test e enter, o arquivo vai rodar e você vai conseguir visualizar a automação
